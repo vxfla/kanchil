@@ -1,0 +1,8 @@
+__pycache__
+chkpt*
+wandb
+
+chatT5_dialo.py
+*.slurm
+*.out
+demo.py

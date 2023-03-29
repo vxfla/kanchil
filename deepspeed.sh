@@ -1,0 +1,1 @@
+deepspeed --master_port 10088 chatT5.py
