@@ -14,6 +14,7 @@ GPT4发布后是大规模语言模型的吃鸡赛场，头部瞄准千亿级别�
 参考 requirements.txt
 
 ## 训练脚本
+目前主要使用huggingface Trainer进行训练，支持deepspeed多卡训练。模型本身的规模比较小，因而也不需要特别的优化，一张16G的显卡可以跑起来。
 ```
 单卡训练： sh train.sh
 deepspeed sh deepspeed.sh
