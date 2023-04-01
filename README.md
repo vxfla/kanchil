@@ -13,7 +13,7 @@ MT5-base是一个仅有1B的模型，一张16G的显卡就可以轻松训练、�
 ![测试用例](https://s1.ax1x.com/2023/04/01/ppRz5Ux.png)
 ## MT5-large
 MT5-large是一个2B的模型，它读指令的能力略强于MT5-base，受限于资源，MT5-large训练的轮次只有base的一半。
-![测试用例](https://s1.ax1x.com/2023/04/01/ppRzI56.png）
+![测试用例](https://s1.ax1x.com/2023/04/01/ppRzI56.png)
 
 
 # 模型训练
